@@ -8,7 +8,7 @@ Essas instruções permitirão rodar na sua máquina local para fins de desenvol
 ### 📋 Pré-requisitos
 
 ```
-Vscode, Docker (Criar uma conta) e Yarn para rodar os scripts
+Vscode, Docker (Criar uma conta) e Yarn ou npm para rodar os scripts
 ```
 
 ### 🔧 Instalação
@@ -116,7 +116,7 @@ code .
 ```
 Após abrir o terminal e digitar: Yarn
 ```
-Yarn Start
+Yarn Start ou npm start
 
 depois 
 
