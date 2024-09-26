@@ -13,6 +13,7 @@ Vscode, Docker (Criar uma conta) e Yarn para rodar os scripts
 
 ### 🔧 Instalação
 
+```
 1º passo é fazer a instalação do Docker 
 (https://docs.docker.com/desktop/install/windows-install/#download-docker-for-windows), executar o arquivo e seguir o passo a passo.
 Será preciso fornecer algumas permissões durante a instalação, ok?
@@ -98,6 +99,8 @@ services:
 
 volumes:
   db_data: # store database into a volume so that we can pause the containers  
+
+  ```
 
 ## ⚙️ Dentro da pasta themes
 
