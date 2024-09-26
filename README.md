@@ -128,4 +128,4 @@ www.wpdemo.com.br
 
 
 ---
-⌨️ com ❤️ por [Fábio Soousa](https://github.com/fabioalexandre1911) 😊
+⌨️ Por [Fábio Sousa](https://github.com/fabioalexandre1911) 😊
